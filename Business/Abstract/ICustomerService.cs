@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Business.Abstract
 {
-    public interface ICustomerDal
+    public interface ICustomerService
     {
     }
 }
